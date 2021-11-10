@@ -8,7 +8,7 @@ Created on November 10, 2021
 import os
 
 # Path of the file to be modified
-inputdir = r"D:/A_Postgraduate/SKA_seg/2dbin_data_all/Original/true_catalog1/"
+inputdir = r"D:/A_Postgraduate/Original/true_catalog1/"
 
 def re_filename():
   
